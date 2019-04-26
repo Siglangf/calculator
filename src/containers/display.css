@@ -1,0 +1,17 @@
+.display {
+  background-color: black;
+  height: 50px;
+  width: 200px;
+  color: white;
+  border-color: green;
+}
+.text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  padding-right: 10px;
+  padding-top: 5px;
+  text-align: right;
+  font-weight: bold;
+  color: white;
+}

@@ -1,0 +1,7 @@
+.matrix-row {
+  clear: both;
+  content: "";
+  display: table;
+
+  width: 200px;
+}

@@ -1,0 +1,52 @@
+.number {
+  float: left;
+  background-color: gainsboro;
+  border: 1px solid;
+  border-color: brown;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  font-size: 30px;
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.number:focus {
+  outline: none;
+}
+
+.clear {
+  float: left;
+  background-color: gainsboro;
+  border-color: brown;
+  width: 150px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  font-size: 30px;
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.clear:focus {
+  outline: none;
+}
+
+.operator {
+  float: left;
+  background-color: crimson;
+  border-color: brown;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+  font-size: 30px;
+  color: white;
+  font: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.operator:focus {
+  outline: none;
+}
